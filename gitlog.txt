@@ -1,0 +1,47 @@
+commit 28dd2272afaa5e71b2fad2b95f0c6148b21fe32b
+Author: anlogan <anlogan@mines.edu>
+Date:   Tue Sep 27 14:49:59 2016 -0600
+
+    Changed messsage to help me and made head size 200
+
+commit 2cd805bc0b6cc3c337aadbdc9a333e57bd575e43
+Author: Shea Styer <sheastyer@mymail.mines.edu>
+Date:   Tue Sep 27 14:48:09 2016 -0600
+
+    Fixed small head, moved mouth down
+
+commit 8a81c0e8d79155ce83e5d2c4dc3cab722460308c
+Author: anlogan <anlogan@mines.edu>
+Date:   Tue Sep 27 14:46:18 2016 -0600
+
+    Made cats head small, will need help
+
+commit f6d790e71fe276af12dd29500556537fb5f7f6db
+Author: Shea Styer <sheastyer@mymail.mines.edu>
+Date:   Tue Sep 27 14:43:33 2016 -0600
+
+    Made cat's eyes huge!
+
+commit 46423f4ae06934dd115db851567c1d47f2b9412b
+Author: anlogan <anlogan@mines.edu>
+Date:   Tue Sep 27 14:42:11 2016 -0600
+
+    Changed message to bang it out instead of meow
+
+commit b8d3a530d792ef9909ad21a0084023ed1cc7019d
+Author: Shea Styer <sheastyer@mymail.mines.edu>
+Date:   Tue Sep 27 14:35:39 2016 -0600
+
+    Changed fur to magenta
+
+commit f1a8fad58d48d1bc6d494990e3d354dbabf2d58a
+Author: Shea Styer <sheastyer@mymail.mines.edu>
+Date:   Tue Sep 27 14:23:01 2016 -0600
+
+    Initial Commit after Cloning
+
+commit eac9ba6c8c43994c685c49122a5d920f9548ff45
+Author: sheastyermines <sheastyer@mymail.mines.edu>
+Date:   Tue Sep 27 14:02:48 2016 -0600
+
+    Initial commit
